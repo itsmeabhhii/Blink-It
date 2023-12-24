@@ -1,0 +1,7 @@
+cmake
+dlib
+imutils         done
+keyboard
+numpy           done
+opencv-python   done
+scipy           done 
