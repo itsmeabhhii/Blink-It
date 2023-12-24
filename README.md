@@ -15,5 +15,8 @@ Another interesting fact is that this application would automagically locate up 
 # Video Link 
 https://drive.google.com/file/d/13TDgs64UOY36Qr5EMBRwknO-YR7plmkt/view?usp=sharing
 
-# Snippets of Project
+# Snippets of Working Project
 ![image](https://github.com/itsmeabhhii/Blink-It/assets/100613653/46a79a67-6d7e-4912-931e-c699ba9c01ee)
+# Message send to Recipient
+![image](https://github.com/itsmeabhhii/Blink-It/assets/100613653/7dfcea1d-c46b-4afa-ba4f-84f09f76bf8e)
+
