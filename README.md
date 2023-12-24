@@ -15,3 +15,5 @@ Another interesting fact is that this application would automagically locate up 
 # Video Link 
 https://drive.google.com/file/d/13TDgs64UOY36Qr5EMBRwknO-YR7plmkt/view?usp=sharing
 
+# Snippets of Project
+![image](https://github.com/itsmeabhhii/Blink-It/assets/100613653/46a79a67-6d7e-4912-931e-c699ba9c01ee)
