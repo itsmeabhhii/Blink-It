@@ -2,7 +2,7 @@
 This is an application for the one's who have ability to communicate via eyes only.
 
 # Usage of this App
-Using this application in the </B>Tough Warfare Zones<b/> could be of greater advantage as soldiers can communicate with their officials via just a blink of eye.<br/>
+Using this application in the <b/>Tough Warfare Zones</b> could be of greater advantage as soldiers can communicate with their officials via just a blink of eye.<br/>
 This application is reliable as even there's no internet connection, it can still send the string types up via eye to the particular recipient.
 # How it works (Just An Overview)
 Majorly this application is based upon the Morse Code Language which is nothing but a sequence of dots and dashes.<br/>
